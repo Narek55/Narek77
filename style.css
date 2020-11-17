@@ -1,0 +1,62 @@
+p {
+	color: white;
+	font-size: 78px;
+	margin-top: 20px ;
+	margin-left: 27px;
+	font-family: Molot;
+}
+#MENU {
+	color: black;
+	font-size: 50px;
+	margin-left:15px ;
+	font-family: Molot;
+	background-color: white;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+#SETTINGS {
+	color: black;
+	font-size: 50px;
+	margin-left:20px ;
+	font-family: Molot;
+	background-color: white;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+#GAMES {
+	color: black;
+	font-size: 50px;
+	margin-left:20px ;
+	font-family: Molot;
+	background-color: white;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+#PROGRAMS {
+	color: black;
+	font-size: 45px;
+	margin-left:20px ;
+	font-family: Molot;
+	background-color: white;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+a {
+	text-decoration: none;
+}
+#LOGO {
+	width: 550px;
+	margin-left: 230px;
+}
+#insta {
+	margin-top: 150px;
+	width: 400px;
+}
+#discord {
+	width: 500px;
+	margin-left: 50px;
+}
+#youtube {
+	margin-top: 40px;
+	width: 500px;
+}
